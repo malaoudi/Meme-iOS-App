@@ -1,5 +1,5 @@
 # MemeCreator-iOS-App
-An ios app for that creates memes and allows for saving and sharing them.  
+An ios app that allows users to easily create memes and share them with having the option to add more features and being scalable.  
 # Overview: 
 Developed an iOS application using Swift and Objective-C that allows users to easily create and share memes. Integrated openCV
 library allowing users to effortlessly apply photo filters and effects. Incorporated data storage to archive memes. Leveraged caching for recently
