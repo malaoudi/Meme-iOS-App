@@ -14,6 +14,6 @@ In addition, I created a RESTful backend server to store the images and text in 
 image encoder and images are given a unique key using the NSUUID. I decided to bring image editing capabilities to the app by incorporating
 openCV, an open source computer vision library. The library is written in Objective-C and C++, while my project is written in Swift. I created a
 bridge header file in my project in order to allow the use of both languages. I created an "Edit" button that would take the Image displayed as an
-input and output a filtered image. The app was underwent contract with app store and it was made available. 
+input and output a filtered image. 
 # Tools: 
 Utilized Heroku, Flask, HTML/CSS, JavaScript, AJAX, Docker, THREE.js, GIT
