@@ -22,8 +22,6 @@ Technologies Utilized in the application: Objective C, GIT, Swift, UIKit
 # Demonstration: 
 https://youtu.be/pgamJ66-vZg
 
-# Install 
-
 The application offers the following features: <br>
 
 Creating an application allowing to personalize and share Memes. <br/>
@@ -32,9 +30,9 @@ Sharing Memes via SMS, e-mail, social media, etc. <br/>
 View saved Memes as a list. <br/>
 Delete saved Memes in your list. <br/>
 
-Testing The App: <br/>
+# Testing: <br/>
 
-Download the project to your computer from this project page. <br/>
+To test the app, download the project to your computer from this project page. <br/>
 Once the project is downloaded, open the .xcodeproj file from the folder. <br/>
 Run the project either using the iPhone simulator or your device. I recommend running the project on the latest iPhone device. It should be compiled with the latest version of Xcode. <br/>
 If you choose to download it on your device, please plug in your device to your computer and make the device target your device model. Then click 'run'. <br/>
