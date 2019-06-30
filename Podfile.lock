@@ -1,0 +1,35 @@
+PODS:
+  - BWWalkthrough (2.1.0)
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManagerSwift (4.0.10)
+  - ReachabilitySwift (3)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SSZipArchive (1.8.1)
+  - SVProgressHUD (2.1.2)
+  - TextFieldEffects (1.3.3)
+
+DEPENDENCIES:
+  - BWWalkthrough (= 2.1.0)
+  - DZNEmptyDataSet
+  - IQKeyboardManagerSwift (= 4.0.10)
+  - ReachabilitySwift (~> 3)
+  - SDWebImage (~> 3.7)
+  - SSZipArchive
+  - SVProgressHUD
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  BWWalkthrough: 188408f55b951725ccfd4faa8dab5c577b57c7a9
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManagerSwift: 75ba21a23794a1e6b6fe6d9a267ea17f80e06771
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SSZipArchive: 04547dfa448be5ed7ecbaf7eaf8a6e9eb9b42997
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  TextFieldEffects: 8706f53525f1ce51c8921b7af32237caab50c467
+
+PODFILE CHECKSUM: d38a3777ec1106cba4f1277995f10c16962b23e0
+
+COCOAPODS: 1.2.1
