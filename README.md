@@ -16,10 +16,30 @@ openCV, an open source computer vision library. The library is written in Object
 bridge header file in my project in order to allow the use of both languages. I created an "Edit" button that would take the Image displayed as an
 input and output a filtered image. 
 # Tools: 
-Utilized Heroku, Flask, HTML/CSS, JavaScript, AJAX, Docker, THREE.js, GIT
+Technologies Utilized in the application: Objective C, GIT, Swift, UIKit
+
+
 # Demonstration: 
 https://youtu.be/pgamJ66-vZg
 
 # Documentation 
 
 # Install 
+
+The application offers the following features: <br>
+
+Creating an application allowing to personalize and share Memes. <br/>
+Adding personalized text. <br/>
+Sharing Memes via SMS, e-mail, social media, etc. <br/>
+View saved Memes as a list. <br/>
+Delete saved Memes in your list. <br/>
+
+Testing The App: <br/>
+
+Download the project to your computer from this project page. <br/>
+Once the project is downloaded, open the .xcodeproj file from the folder. <br/>
+Run the project either using the iPhone simulator or your device. I recommend running the project on the latest iPhone device. It should be compiled with the latest version of Xcode. <br/>
+If you choose to download it on your device, please plug in your device to your computer and make the device target your device model. Then click 'run'. <br/>
+
+Closing: <br/>
+In conclusion, I have learned a lot by working on this project. I became aquianted with UIKit and am able to successfully create applications using different scenes, functions and assets in order to create an exciting application.
