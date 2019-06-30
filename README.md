@@ -22,8 +22,6 @@ Technologies Utilized in the application: Objective C, GIT, Swift, UIKit
 # Demonstration: 
 https://youtu.be/pgamJ66-vZg
 
-# Documentation 
-
 # Install 
 
 The application offers the following features: <br>
